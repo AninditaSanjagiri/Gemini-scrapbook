@@ -1,0 +1,6 @@
+Flask==3.0.0
+gunicorn==21.2.0
+google-cloud-firestore
+google-cloud-secret-manager
+google-generativeai
+firebase-admin
